@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://nicolas-10.github.io/csb-vep2g/static/js/main.ca40a356.chunk.js",
+    "main.js.map": "https://nicolas-10.github.io/csb-vep2g/static/js/main.ca40a356.chunk.js.map",
+    "runtime-main.js": "https://nicolas-10.github.io/csb-vep2g/static/js/runtime-main.bd12a492.js",
+    "runtime-main.js.map": "https://nicolas-10.github.io/csb-vep2g/static/js/runtime-main.bd12a492.js.map",
+    "static/js/2.0c982e81.chunk.js": "https://nicolas-10.github.io/csb-vep2g/static/js/2.0c982e81.chunk.js",
+    "static/js/2.0c982e81.chunk.js.map": "https://nicolas-10.github.io/csb-vep2g/static/js/2.0c982e81.chunk.js.map",
+    "index.html": "https://nicolas-10.github.io/csb-vep2g/index.html",
+    "static/js/2.0c982e81.chunk.js.LICENSE.txt": "https://nicolas-10.github.io/csb-vep2g/static/js/2.0c982e81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd12a492.js",
+    "static/js/2.0c982e81.chunk.js",
+    "static/js/main.ca40a356.chunk.js"
+  ]
+}
